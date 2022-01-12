@@ -1,0 +1,310 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.23f1 (c5d91304a876) revision 12966163'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1415; Version 2009; 64bit' Language: 'ko' Physical Memory: 32714 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UnityProjects/Clock
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+1371
+Successfully changed project path to: D:/UnityProjects/Clock
+D:/UnityProjects/Clock
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 26.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.23f1 (c5d91304a876)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityProjects/Clock/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56712
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002958 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 26.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.600 seconds
+Domain Reload Profiling:
+	ReloadAssembly (600ms)
+		BeginReloadAssembly (53ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (420ms)
+			LoadAssemblies (51ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (182ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (129ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (26ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (60ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.068100 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Domain Reload Profiling:
+	ReloadAssembly (897ms)
+		BeginReloadAssembly (129ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (711ms)
+			LoadAssemblies (79ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (232ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (294ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (204ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1500 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1933.
+Total: 3.136400 ms (FindLiveObjects: 0.317900 ms CreateObjectMapping: 0.047800 ms MarkObjects: 2.695700 ms  DeleteObjects: 0.072000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(d311bd15299115641b5616de8f1501e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(d311bd15299115641b5616de8f1501e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a4cd11dbdb4c601858dd2048f3f1d8') in 0.008585 seconds 
+  Import took 0.010764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Wristwatch/Scripts/RealClock.cs
+  artifactKey: Guid(dbcdf53398c9324429fd0c818f9b4b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wristwatch/Scripts/RealClock.cs using Guid(dbcdf53398c9324429fd0c818f9b4b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa85cebcbff68c26316b19737cb7ced2') in 0.032612 seconds 
+  Import took 0.040944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Wristwatch/Scripts
+  artifactKey: Guid(9b4d986842b6a0b45aa6befec5ffb2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wristwatch/Scripts using Guid(9b4d986842b6a0b45aa6befec5ffb2e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4f8d22564bf56d14fd69a4d6c6d8fd') in 0.005631 seconds 
+  Import took 0.008007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Wristwatch
+  artifactKey: Guid(6d79941e989e5f9418d4bbcf17482ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wristwatch using Guid(6d79941e989e5f9418d4bbcf17482ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7a796834212f8994a3b58efabe34f7') in 0.005002 seconds 
+  Import took 0.006977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.971966 seconds.
+  path: Assets/Wristwatch/Shaders
+  artifactKey: Guid(509ec6aff4fb5204ba5b67e2ca93cb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wristwatch/Shaders using Guid(509ec6aff4fb5204ba5b67e2ca93cb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cada8dd12ca72008b1057f04f70044e7') in 0.004844 seconds 
+  Import took 0.007174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.991152 seconds.
+  path: Assets/Wristwatch/Prefabs
+  artifactKey: Guid(f26f1168bfb45464da605fa65d72ee93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wristwatch/Prefabs using Guid(f26f1168bfb45464da605fa65d72ee93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df1b63f36edde132c8fd97685a7dca9') in 0.004989 seconds 
+  Import took 0.023284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.717904 seconds.
+  path: Assets/Wristwatch/Models
+  artifactKey: Guid(611606e155a2c634aa4cb39e19a2432e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wristwatch/Models using Guid(611606e155a2c634aa4cb39e19a2432e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd57989386245e21a6ceefce66cb64fb5') in 0.005051 seconds 
+  Import took 0.007498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.282943 seconds.
+  path: Assets/Wristwatch/Models/Materials
+  artifactKey: Guid(42302ab24cac9564b8b46a1af64f2620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wristwatch/Models/Materials using Guid(42302ab24cac9564b8b46a1af64f2620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c36bb902a0b96c6697de7fc3414769') in 0.005506 seconds 
+  Import took 0.008152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.715011 seconds.
+  path: Assets/Wristwatch/Shaders/AO.shader
+  artifactKey: Guid(2c89b3874204b314ea5433362791bfe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Wristwatch/Shaders/AO.shader using Guid(2c89b3874204b314ea5433362791bfe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e5936c83cd490d67540a63c0284082c') in 0.016469 seconds 
+  Import took 0.018874 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003662 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.947 seconds
+Domain Reload Profiling:
+	ReloadAssembly (948ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (770ms)
+			LoadAssemblies (95ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (264ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (294ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (191ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1493 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.6 MB.
+System memory in use after: 70.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 2.835400 ms (FindLiveObjects: 0.191800 ms CreateObjectMapping: 0.035500 ms MarkObjects: 2.584100 ms  DeleteObjects: 0.022900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7558.508018 seconds.
+  path: Assets/uploads_files_2429648_Cartoon+Space+Suit2.fbx
+  artifactKey: Guid(6cda0a678deed614ba3affd24ea740f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2429648_Cartoon+Space+Suit2.fbx using Guid(6cda0a678deed614ba3affd24ea740f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18dff38eea744b99b166e355e730d397') in 0.589666 seconds 
+  Import took 0.594814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.727695 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0.005815 seconds 
+  Import took 0.008441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 449.252285 seconds.
+  path: Assets/uploads_files_2429648_Cartoon+Space+Suit2.fbx
+  artifactKey: Guid(6cda0a678deed614ba3affd24ea740f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2429648_Cartoon+Space+Suit2.fbx using Guid(6cda0a678deed614ba3affd24ea740f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965316ef81b3572257b72e45dc95010a') in 0.058185 seconds 
+  Import took 0.061388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.118867 seconds.
+  path: Assets/uploads_files_2429648_Cartoon+Space+Suit2.fbx
+  artifactKey: Guid(6cda0a678deed614ba3affd24ea740f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2429648_Cartoon+Space+Suit2.fbx using Guid(6cda0a678deed614ba3affd24ea740f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214d13e04edcd184370ba65d15a5c683') in 0.053250 seconds 
+  Import took 0.056660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1142.510873 seconds.
+  path: Assets/uploads_files_2429648_Cartoon+Space+Suit+Animation2.fbx
+  artifactKey: Guid(cd1ebe70c8a247c48b434b584d44a3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2429648_Cartoon+Space+Suit+Animation2.fbx using Guid(cd1ebe70c8a247c48b434b584d44a3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804b442eefb32a9141db1e5807c52044') in 0.101576 seconds 
+  Import took 0.106232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.383504 seconds.
+  path: Assets/uploads_files_2429648_Cartoon+Space+Suit+Animation2.fbx
+  artifactKey: Guid(cd1ebe70c8a247c48b434b584d44a3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/uploads_files_2429648_Cartoon+Space+Suit+Animation2.fbx using Guid(cd1ebe70c8a247c48b434b584d44a3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21a07d79a67c299ed0f854caf0bb240') in 0.131301 seconds 
+  Import took 0.135705 seconds .
+
